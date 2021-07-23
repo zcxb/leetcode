@@ -5,6 +5,7 @@
 |   #   | Title                                                                                            | Solution                                                                                | Difficulty |
 | :---: | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :--------: |
 |   9   | [回文数](https://leetcode-cn.com/problems/palindrome-number/)                                    | [Python](solutions/algorithms/python/difficulty/easy/9.回文数.py)                       |    Easy    |
+|  14   | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                          | [Python](solutions/algorithms/python/difficulty/easy/14.最长公共前缀.py)                |    Easy    |
 |  19   | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | [Python](solutions/algorithms/python/difficulty/medium/19.删除链表的倒数第-n-个结点.py) |   Medium   |
 |  20   | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                                | [Python](solutions/algorithms/python/difficulty/easy/20.有效的括号.py)                  |    Easy    |
 |  21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                     | [Python](solutions/algorithms/python/difficulty/easy/21.合并两个有序链表.py)            |    Easy    |
