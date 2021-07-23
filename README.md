@@ -12,4 +12,5 @@
 |  83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Python](solutions/algorithms/python/difficulty/easy/83.删除排序链表中的重复元素.py)    |    Easy    |
 |  202  | [快乐数](https://leetcode-cn.com/problems/happy-number/)                                         | [Python](solutions/algorithms/python/difficulty/easy/202.快乐数.py)                     |    Easy    |
 |  203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                    | [Python](solutions/algorithms/python/difficulty/easy/203.移除链表元素.py)               |    Easy    |
+|  461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)                                   | [Python](solutions/algorithms/python/difficulty/easy/461.汉明距离.py)                   |    Easy    |
 |  852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)           | [Python](solutions/algorithms/python/difficulty/easy/852.山脉数组的峰顶索引.py)         |    Easy    |
