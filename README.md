@@ -14,4 +14,5 @@
 |  203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                    | [Python](Solutions/Algorithms/Python/Difficulty/Easy/203.移除链表元素.py)               |    Easy    |
 |  226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)                               | [Python](Solutions/Algorithms/Python/Difficulty/Easy/226.翻转二叉树.py)                 |    Easy    |
 |  461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)                                   | [Python](Solutions/Algorithms/Python/Difficulty/Easy/461.汉明距离.py)                   |    Easy    |
+|  704  | [二分查找](https://leetcode-cn.com/problems/binary-search/)                                      | [Python](Solutions/Algorithms/Python/Difficulty/Easy/704.二分查找.py)                   |    Easy    |
 |  852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)           | [Python](Solutions/Algorithms/Python/Difficulty/Easy/852.山脉数组的峰顶索引.py)         |    Easy    |
