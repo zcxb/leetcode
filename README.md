@@ -19,6 +19,7 @@
 |  455  | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/)                                           | [Python](Solutions/Algorithms/Python/Difficulty/Easy/455.分发饼干.py)                   |    Easy    |
 |  461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)                                         | [Python](Solutions/Algorithms/Python/Difficulty/Easy/461.汉明距离.py)                   |    Easy    |
 |  605  | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/)                                        | [Python](Solutions/Algorithms/Python/Difficulty/Easy/605.种花问题.py)                   |    Easy    |
+|  665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)                                   | [Python](Solutions/Algorithms/Python/Difficulty/Medium/665.非递减数列.py)               |   Medium   |
 |  704  | [二分查找](https://leetcode-cn.com/problems/binary-search/)                                            | [Python](Solutions/Algorithms/Python/Difficulty/Easy/704.二分查找.py)                   |    Easy    |
 |  763  | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/)                                     | [Python](Solutions/Algorithms/Python/Difficulty/Medium/763.划分字母区间.py)             |    Easy    |
 |  852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)                 | [Python](Solutions/Algorithms/Python/Difficulty/Easy/852.山脉数组的峰顶索引.py)         |    Easy    |
