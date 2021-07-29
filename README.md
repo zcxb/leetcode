@@ -10,8 +10,10 @@
 |  20   | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                                      | [Python](Solutions/Algorithms/Python/Difficulty/Easy/20.有效的括号.py)                  |    Easy    |
 |  21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                           | [Python](Solutions/Algorithms/Python/Difficulty/Easy/21.合并两个有序链表.py)            |    Easy    |
 |  83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)       | [Python](Solutions/Algorithms/Python/Difficulty/Easy/83.删除排序链表中的重复元素.py)    |    Easy    |
+|  88   | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                               | [Python](Solutions/Algorithms/Python/Difficulty/Easy/88.合并两个有序数组.py)            |    Easy    |
 |  122  | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)          | [Python](Solutions/Algorithms/Python/Difficulty/Easy/122.买卖股票的最佳时机-ii.py)      |    Easy    |
 |  135  | [分发糖果](https://leetcode-cn.com/problems/candy/)                                                    | [Python](Solutions/Algorithms/Python/Difficulty/Hard/135.分发糖果.py)                   |    Hard    |
+|  142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                                  | [Python](Solutions/Algorithms/Python/Difficulty/Medium/142.环形链表-ii.py)              |   Medium   |
 |  167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)       | [Python](Solutions/Algorithms/Python/Difficulty/easy/167.两数之和-ii-输入有序数组.py)   |    Easy    |
 |  202  | [快乐数](https://leetcode-cn.com/problems/happy-number/)                                               | [Python](Solutions/Algorithms/Python/Difficulty/Easy/202.快乐数.py)                     |    Easy    |
 |  203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                          | [Python](Solutions/Algorithms/Python/Difficulty/Easy/203.移除链表元素.py)               |    Easy    |
@@ -20,6 +22,7 @@
 |  455  | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/)                                           | [Python](Solutions/Algorithms/Python/Difficulty/Easy/455.分发饼干.py)                   |    Easy    |
 |  461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)                                         | [Python](Solutions/Algorithms/Python/Difficulty/Easy/461.汉明距离.py)                   |    Easy    |
 |  605  | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/)                                        | [Python](Solutions/Algorithms/Python/Difficulty/Easy/605.种花问题.py)                   |    Easy    |
+|  633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)                                  | [Python](Solutions/Algorithms/Python/Difficulty/Medium/633.平方数之和.py)               |   Medium   |
 |  665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)                                   | [Python](Solutions/Algorithms/Python/Difficulty/Medium/665.非递减数列.py)               |   Medium   |
 |  704  | [二分查找](https://leetcode-cn.com/problems/binary-search/)                                            | [Python](Solutions/Algorithms/Python/Difficulty/Easy/704.二分查找.py)                   |    Easy    |
 |  763  | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/)                                     | [Python](Solutions/Algorithms/Python/Difficulty/Medium/763.划分字母区间.py)             |    Easy    |
