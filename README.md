@@ -12,6 +12,7 @@
 |  83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)       | [Python](Solutions/Algorithms/Python/Difficulty/Easy/83.删除排序链表中的重复元素.py)    |    Easy    |
 |  122  | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)          | [Python](Solutions/Algorithms/Python/Difficulty/Easy/122.买卖股票的最佳时机-ii.py)      |    Easy    |
 |  135  | [分发糖果](https://leetcode-cn.com/problems/candy/)                                                    | [Python](Solutions/Algorithms/Python/Difficulty/Hard/135.分发糖果.py)                   |    Hard    |
+|  167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)       | [Python](Solutions/Algorithms/Python/Difficulty/easy/167.两数之和-ii-输入有序数组.py)   |    Easy    |
 |  202  | [快乐数](https://leetcode-cn.com/problems/happy-number/)                                               | [Python](Solutions/Algorithms/Python/Difficulty/Easy/202.快乐数.py)                     |    Easy    |
 |  203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)                          | [Python](Solutions/Algorithms/Python/Difficulty/Easy/203.移除链表元素.py)               |    Easy    |
 |  226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)                                     | [Python](Solutions/Algorithms/Python/Difficulty/Easy/226.翻转二叉树.py)                 |    Easy    |
