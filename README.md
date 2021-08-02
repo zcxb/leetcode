@@ -10,6 +10,7 @@
 |  19   | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)                   | [Python](Solutions/Algorithms/Python/Difficulty/Medium/19.删除链表的倒数第-n-个结点.py)         |   Medium   |
 |  20   | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)                                                 | [Python](Solutions/Algorithms/Python/Difficulty/Easy/20.有效的括号.py)                          |    Easy    |
 |  21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                                      | [Python](Solutions/Algorithms/Python/Difficulty/Easy/21.合并两个有序链表.py)                    |    Easy    |
+|  69   | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)                                                             | [Python](Solutions/Algorithms/Python/Difficulty/Easy/69.x-的平方根.py)                          |    Easy    |
 |  83   | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)                  | [Python](Solutions/Algorithms/Python/Difficulty/Easy/83.删除排序链表中的重复元素.py)            |    Easy    |
 |  88   | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                                          | [Python](Solutions/Algorithms/Python/Difficulty/Easy/88.合并两个有序数组.py)                    |    Easy    |
 |  122  | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)                     | [Python](Solutions/Algorithms/Python/Difficulty/Easy/122.买卖股票的最佳时机-ii.py)              |    Easy    |
